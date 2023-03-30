@@ -1,0 +1,17 @@
+Dominic Brugioni
+2402157
+
+MP3: MonoStack
+
+Description:
+This program reads a file that represents a seating chart for an assembly. It uses a monostatically decreasing stack
+to determine which attendees are able to see the speaker.
+
+References:
+None this time.
+
+Problems:
+Was really happy with my monostack logic, but couldn't for the life of me figure out how to read in the information from the file.
+I included comments in the SpeakerView file of how my logic would have worked if I could have figured it out. I saw stuff about sstringstream
+on StackOverflow and other repositories, but couldn't wrap my head around it. I wanted to turn it in on time to make sure I at least get 50 points,
+and hopefully the MonoStack class is worth 10 points so I can finesse a D-.
